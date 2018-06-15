@@ -1,0 +1,86 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+ body
+ {
+  font-family: monospace;
+  background: url(../images/Slider5.jpg);
+  }
+
+.logo img
+{
+  height: auto;
+  width: 150px;
+  margin-left: 200px;
+}
+.top
+{
+  max-width: 1200px;
+  margin: auto;
+}
+
+.nav
+{
+  float: right;
+  list-style: none;
+  margin-top: 30px;
+}
+.nav li
+{
+  display: inline-block;
+}
+.nav li.active a
+{
+ border: 1px solid brown; 
+}
+ .nav li a:hover
+ {
+  border: 1px solid white;
+ }
+
+ .nav li a
+ {
+  color: brown;
+  padding: 5px 20px;
+  font-size: 15px;
+ }
+
+ .welcome
+ {
+  position: absolute;
+  width: 1200px;
+  height: 700px;
+  margin-right: 0;
+  margin-left: 0;
+ }
+
+ h1
+ {
+  color: brown;
+  text-transform: uppercase;
+  font-family: cursive;
+  font-size: 60px;
+  text-align: center;
+  margin-top: 150px;
+ }
+ 
+ h2
+ {
+  color: brown;
+  text-transform: uppercase;
+  text-align: center;
+ font-size: 30px;
+ }
+
+ header
+ {
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  height: 200;
+ }
+
+
+
