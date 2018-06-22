@@ -6,7 +6,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	background: url(../images/Slider4.jpg);
+	background: url(../../images/Slider4.jpg);
 	background-size: cover;
 	font-family: sans-serif;
 }
@@ -14,7 +14,7 @@ body{
 .login{
 	width: 300px;
 	height: 450px;
-	background: white;
+	background: gold;
 	text-transform: uppercase;
 	top: 55%;
 	left: 81%;
@@ -82,7 +82,7 @@ h1{
 }
 .login input{
 	width: 100%
-	margin-bottom:20px;
+	margin-bottom 20px;
 }
 .login input[type="text"], input[type="password"]
 {
@@ -98,8 +98,8 @@ h1{
 {
 	
 	height: 30px;
-	background: black;
-	color: gold;
+	background: gold;
+	color: black;
 	font-size: 18px;
 
 }
@@ -107,7 +107,7 @@ h1{
 .login input[type="submit"]:hover
 {
 	cursor: pointer;
-	background: black;
+	background: gold;
 	color: white;
 }
 
@@ -118,5 +118,5 @@ h1{
 }
 .login a:hover
 {
-	color: green;
+	color: white;
 }
