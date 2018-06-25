@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Ride my way\u001b[D\u001b[D\u001b[\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thermiee Jolus",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.12.0",
+    "express": "^4.16.3",
+    "jasmine": "^3.1.0",
+    "joi": "^13.4.0"
+  }
+}
