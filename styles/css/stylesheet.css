@@ -58,8 +58,6 @@ body{
 }
 
 
-
-
 .icon{
 	width: 200px;
 	height: 100px;
@@ -81,7 +79,6 @@ h1{
 	font-weight: bold;
 }
 .login input{
-	width: 100%
 	margin-bottom 20px;
 }
 .login input[type="text"], input[type="password"]
