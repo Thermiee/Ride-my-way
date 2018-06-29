@@ -2,7 +2,7 @@
   "name": "ride-my-app",
   "version": "1.0.0",
   "description": "A carpooling application",
-  "main": "index.js",
+  "main": "app/main/index.js",
   "scripts": {
    "dev": "nodemon rides.js",
     "test":"mocha"
