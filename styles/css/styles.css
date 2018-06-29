@@ -18,7 +18,7 @@
 }
 .top
 {
-  max-width: 1200px;
+  max-width: auto;
   margin: auto;
 }
 
@@ -93,10 +93,6 @@ th, td {
     text-align: left;
     text-transform: uppercase;
     font-weight: bold;
-}
-table.names th  {
-    background-color: black;
-    color: white
 }
 
 
