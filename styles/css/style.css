@@ -7,6 +7,10 @@
  {
   font-family: monospace;
   background: url(../../images/Slider5.jpg);
+  background-size: cover;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   }
 
 .logo img
@@ -51,7 +55,7 @@
  {
   position: absolute;
   width: 1200px;
-  height: 700px;
+  height: auto;
   margin-right: 0;
   margin-left: 0;
  }

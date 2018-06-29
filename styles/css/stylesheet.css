@@ -4,11 +4,12 @@
 }
 
 body{
-	margin: 0;
-	padding: 0;
 	background: url(../../images/Slider4.jpg);
 	background-size: cover;
 	font-family: sans-serif;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .login{
@@ -58,8 +59,6 @@ body{
 }
 
 
-
-
 .icon{
 	width: 200px;
 	height: 100px;
@@ -81,7 +80,6 @@ h1{
 	font-weight: bold;
 }
 .login input{
-	width: 100%
 	margin-bottom 20px;
 }
 .login input[type="text"], input[type="password"]

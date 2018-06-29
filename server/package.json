@@ -1,0 +1,28 @@
+{
+  "name": "ride-my-app",
+  "version": "1.0.0",
+  "description": "A carpooling application",
+  "main": "index.js",
+  "scripts": {
+   "dev": "nodemon rides.js",
+    "test":"mocha"
+  },
+  "dependencies": {
+    "babel-cli": "*",
+    "body-parser": "*",
+    "chai": "^4.1.2",
+    "coveralls": "*",
+    "eslint": "^5.0.1",
+    "eslint-config-airbnb": "*",
+    "eslint-plugin-import": "*",
+    "express": "*",
+    "mocha": "^5.2.0",
+    "npm-run-all": "*",
+    "nsp": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  },
+  "author": "Thermiee Jolus",
+  "license": "ISC"
+}
